@@ -58,7 +58,7 @@ cd Tic-Tac-Toe
 Add a screenshot of your project here:
 
 ```markdown
-![Tic-Tac-Toe Game](./images/screenshot.png.png)
+![Tic-Tac-Toe Game](./images/screenshot.png)
 ```
 
 ## 🔮 Future Enhancements
